@@ -1,0 +1,8 @@
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\bin\Debug\netcoreapp3.0\Microsoft.Identity.Web.deps.json
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\bin\Debug\netcoreapp3.0\Microsoft.Identity.Web.dll
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\bin\Debug\netcoreapp3.0\Microsoft.Identity.Web.pdb
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.sourcelink.json
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.AssemblyInfoInputs.cache
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.AssemblyInfo.cs
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.dll
+F:\STUDY\Docker\WebAPI\Microsoft.Identity.Web\obj\Debug\netcoreapp3.0\Microsoft.Identity.Web.pdb
